@@ -8,4 +8,6 @@ This repository is a concise collection of essential programming concepts and co
 # 1. Well-structured notes for key concepts.
 # 2. Clean, reusable code examples for real-world applications.
 # 3. Optimized for quick understanding and practical use.
-# 4. Perfect for refreshing concepts or preparing for interviews. Contributions and feedback are welcome!
+# 4. Perfect for refreshing concepts or preparing for interviews. 
+
+# Contributions and feedback are welcome!
